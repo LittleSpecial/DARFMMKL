@@ -100,3 +100,11 @@ The candidate pool mixes traditional kernels (Gaussian with `τ ∈ [2⁻⁸, 2�
 ## Acknowledgement
 
 The RFM kernel family draws on the AGOP / Recursive Feature Machine framework of Radhakrishnan et al. (*Science*, 2024).
+
+## TODO
+
+- [ ] Replace the OpenReview and PMLR badge links with the final paper URLs once available
+- [ ] Add an arXiv preprint link
+- [ ] Add ICML 2026 slides / poster
+- [ ] Update the BibTeX with the final volume and page numbers after the PMLR proceedings are published
+- [ ] Expand dataset and reproduction documentation
