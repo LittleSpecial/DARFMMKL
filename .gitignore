@@ -1,0 +1,41 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Python environments and local config
+.env
+.venv/
+venv/
+env/
+
+# Experiment outputs
+log-*.txt
+results*.txt
+*.pkl
+*.npy
+*.npz
+
+# LaTeX / camera-ready working files kept locally
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.pdf
+*.eps
+*.sty
+*.bst
+*.bib
+*.tex
+*.pptx
+icml_numpapers.pdf
+tmp/
+pic/
+
+# Local README draft / duplicate repository assets
+README_github.md
+teaser_for_repo.png
