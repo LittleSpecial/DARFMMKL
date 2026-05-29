@@ -91,6 +91,7 @@ The candidate pool mixes traditional kernels (Gaussian with `τ ∈ [2⁻⁸, 2�
   author    = {Cao, Nan and Zhao, Xu and Zhang, Teng},
   booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
   series    = {Proceedings of Machine Learning Research},
+  volume    = {306},
   year      = {2026},
   publisher = {PMLR}
 }
